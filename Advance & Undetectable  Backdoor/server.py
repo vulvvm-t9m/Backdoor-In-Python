@@ -16,6 +16,6 @@ target, ip = s.accept()  # Corrected this line
 
 print(colored("[+] Connection Established From: %s" % str(ip), "green"))
 
-# Optionally, you can close the socket after use
+# Optionally, you can close the socket after use~
 # target.close()
 # s.close()
